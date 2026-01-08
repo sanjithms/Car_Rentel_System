@@ -51,6 +51,26 @@ Developing this project allowed me to strengthen my expertise in:
 * **System Design:** Creating secure workflows for different user roles (Admin vs. Customer).
 
 ---
+---
+
+## 🖥️ Output Showcase
+
+To provide a clear understanding of the system's workflow, here is a demonstration of the console-based interface in action.
+
+### 📸 Execution Screenshot
+
+![System Output](https://github.com/user-attachments/assets/52cb08bb-8cdf-4cfc-aab0-6b1749b5098a)
+
+### 🔄 System Workflow Demonstration
+
+1.  **Main Menu:** Upon launching, the user is presented with options to Rent, Return, or access the Admin Dashboard.
+2.  **Car Selection:** The system displays a real-time list of available cars, filtered by their current status in the database/file system.
+3.  **Customer Details:** The user provides their name and desired rental duration.
+4.  **Instant Billing:** The system applies logic to calculate the total price: 
+    $$Total = Base Price \times Number of Days$$
+5.  **Transaction Completion:** Once confirmed, the car's status is updated to "Rented" to prevent duplicate bookings.
+
+---
 
 ## 🛤️ Roadmap: What’s Next?
 I plan to continue evolving this system with the following upgrades:
