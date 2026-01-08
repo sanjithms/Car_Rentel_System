@@ -82,7 +82,7 @@ I plan to continue evolving this system with the following upgrades:
 ---
 
 ## 🚀 Getting Started
-1. **Clone the repo:** `git clone https://github.com/yourusername/car-rental-system.git`
+1. **Clone the repo:** `git clone https://github.com/sanjithms/Car-Rental-system.git`
 2. **Open in IDE:** Import the project into IntelliJ or Eclipse.
 3. **Run:** Execute the `Main.java` file to start the application.
 
